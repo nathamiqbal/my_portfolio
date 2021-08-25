@@ -1,0 +1,26 @@
+
+body{
+    background-color: #BBE4E9;
+    font-family: 'Antic Slab', serif;
+    color: #5585B5;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    width: 100%;
+}
+.cloud2{
+ margin: auto 0 auto 0;
+ width: 15%;
+}
+
+.copyright{
+    text-align: center;
+    color: black;
+    font-size: 0.75rem;
+    font-family: serif;
+  }
+
