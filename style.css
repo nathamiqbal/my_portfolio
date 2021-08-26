@@ -83,19 +83,19 @@ a:hover{
   text-align: left;
 }
 .coding{
-  width:25%;
+ 
   float: left;
   margin-right: 30px;
 
 }
 
 .art{
-  width:25%;
+
   float: right;
   margin-left: 30px;
 }
 .guitar{
-  width: 25%;
+  
   float: left;
   margin-right: 30px;
 }
@@ -133,7 +133,7 @@ a:hover{
   background-color: #53A8B6;
 }
 .galleryImg{
-  width:25%;
+
   float: right;
   margin-left: 30px;
   padding: 14px 40px;
