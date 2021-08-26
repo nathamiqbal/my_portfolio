@@ -140,35 +140,3 @@ a:hover{
 
 }
 
-@media only screen and (max-width: 600px) {
-  h1 {
-  font-size: 200%;
-  }
-  h2{
-    font-size: 100%;
-    
-  }
- .mount{
-  width: 60%;
- }
- .topCloud{
-  visibility: hidden;
- }
- .intro{
-  width:auto;
- }
- .coding{
-  float:none;
-  width: 50%;
- }
- .guitar{
-  float:none;
-  width: 50%;
- }
- .art{
-  float:none;
-  width: 50%;
- }
-
-
- }
