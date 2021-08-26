@@ -142,7 +142,144 @@ width:25%;
 }
 @media only screen and (max-width: 600px) {
   body {
-    background-color: lightblue;
+  body
+{
+  background-color: #BBE4E9;
+  text-align: center;
+  font-family:  'Neucha', cursive;
+  color: grey;
+}
+.intro{
+    width:auto;
+  margin: auto;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 200%;
+  font-family: 'Sacramento', cursive;
+  color: #53A8B6;
+  padding-bottom: 10px;
+
+}
+p{
+  line-height: 2;
+}
+h2{
+  margin-top: 0;
+  font-size: 100%;
+  color: #5585B5;
+  font-weight: 100;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+h3{
+  color: #53A8B6;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+.bottomCloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.topCloud{
+    visibility: hidden;
+}
+
+
+hr{
+  margin:100px auto 100px auto;
+
+  border-style:  none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width:10%;
+
+
+
+}
+.bottom-container{
+  background-color:#79C2D0;
+  margin-bottom: 0;
+  padding: 50px 0 20px;
+
+}
+a{
+  color: #5585B5;
+  text-decoration: none;
+
+
+}
+a:hover{
+  color: white;
+}
+
+.intrst-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.coding{
+    float:none;
+    width: 50%;
+}
+
+.art{
+    float:none;
+    width: 50%;
+}
+.guitar{
+    float:none;
+    width: 50%;
+}
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+}
+.btn{
+  transition-duration: 0.4s;
+  background-color: #93B5C6;
+  border:#53A8B6;
+  border-radius: 30px;
+  margin-bottom: 70px;
+  padding: 14px 40px;
+}
+.btn:hover {
+  box-shadow:#93B5C6 ;
+}
+
+
+.gallery-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.galleryBtn{
+  background-color: #BBE4E9;
+  transition-duration: 0.4s;
+  border:white;
+  border-radius: 12px;
+  padding: 14px 40px;
+  float: none;
+}
+.galleryBtn:hover{
+  background-color: #53A8B6;
+}
+.galleryImg{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+  padding: 14px 40px;
+
+}
+.mount{
+    width: 60%;
+   }
   }
 }
 
